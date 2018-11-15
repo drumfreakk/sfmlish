@@ -1,0 +1,3 @@
+/home/kip/CLionProjects/sfml-app/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kip/CLionProjects/sfml-app/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kip/CLionProjects/sfml-app/cmake-build-debug/CMakeFiles/sfml-app.dir
